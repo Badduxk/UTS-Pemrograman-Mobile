@@ -89,6 +89,7 @@ Menampilkan data **cuaca statis** seperti suhu, kelembapan, dan kondisi cuaca (c
 
 ### 📰 Berita
 Menampilkan beberapa **berita statis** dengan tampilan **ListView** bergambar, berisi **judul berita, gambar, dan deskripsi singkat**.
+
 <img width="400" height="500" alt="Screenshot 2025-11-13 231016" src="https://github.com/user-attachments/assets/b1ff763e-5b04-4ecc-8b58-7e7e8b20a6be" />
 
 ---
